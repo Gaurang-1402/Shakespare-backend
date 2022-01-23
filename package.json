@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^14.2.0",
+    "express": "^4.17.2",
+    "stripe": "^8.199.0",
+    "uuid": "^8.3.2"
+  },
+  "name": "shakespare-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js localhost 8080"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
